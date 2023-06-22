@@ -1,10 +1,10 @@
-import Users from "./Users"
+import PostsFunction from "./PostsFunction"
 
 
 function App() {
   return (
     <>
-      <Users/>
+    <PostsFunction/>
     </>
   )
 }
